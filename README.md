@@ -4,10 +4,10 @@ test
 # asfasfasf
 asfasfafs
 
-...javascript
+```javascript
 
 <script>
   console.log('asfasf');
 </script>
 
-...
+```
